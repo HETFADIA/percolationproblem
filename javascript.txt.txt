@@ -27,3 +27,11 @@ document.querySelector("h1").style.backgroundColor="pink";
 "pink"
 document.querySelector("h1").style.color="black";
 "black"
+
+
+
+
+$_
+<body class=​"light-chip alternate-logo use-notifier win" style=​"--logo-color:​rgba(238,238,238,1)​;​ --text-color:​rgba(248,249,250,1)​;​ --text-color-light:​rgba(115,119,130,1)​;​">​…​</body>​
+$1
+<body class=​"light-chip alternate-logo use-notifier win" style=​"--logo-color:​rgba(238,238,238,1)​;​ --text-color:​rgba(248,249,250,1)​;​ --text-color-light:​rgba(115,119,130,1)​;​">​…​</body>​
