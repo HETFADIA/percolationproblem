@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sum of binary numbers</title>
+</head>
+<body>
+    <script>
+        a=0
+        b=0
+        function fn2(){
+
+            a=document.getElementById("firstno").value;
+            b=document.getElementById("secno").value;
+            document.write(parseInt(a)+parseInt(b));
+        }
+
+    </script>
+    <h1>Enter two numbers in decimal form and I will add them</h1>
+    <input type="number" id="firstno" placeholder="Enter first Number">
+    
+    <br><br>
+    <input type="number" id="secno" placeholder="Enter Second Number">
+    <br>
+    <br>
+    <button onclick="fn2()">Click me to add the numbers</button>
+</body>
+</html>
